@@ -1,0 +1,32 @@
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\BEL SEKOLAH.exe.config
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\BEL SEKOLAH.exe
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\BEL SEKOLAH.pdb
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\BouncyCastle.Crypto.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\Google.Protobuf.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\K4os.Compression.LZ4.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\K4os.Compression.LZ4.Streams.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\K4os.Hash.xxHash.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\MySql.Data.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Buffers.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Memory.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Numerics.Vectors.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\Ubiety.Dns.Core.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\ZstdNet.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\BouncyCastle.Crypto.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\Google.Protobuf.pdb
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\Google.Protobuf.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\K4os.Compression.LZ4.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\K4os.Compression.LZ4.Streams.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\K4os.Hash.xxHash.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\MySql.Data.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Buffers.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Memory.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Numerics.Vectors.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Release\BEL SEKOLAH.csproj.AssemblyReference.cache
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Release\BEL SEKOLAH.csproj.SuggestedBindingRedirects.cache
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Release\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Release\BEL SEKOLAH.csproj.CopyComplete
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Release\BEL SEKOLAH.exe
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Release\BEL SEKOLAH.pdb

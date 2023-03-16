@@ -1,0 +1,96 @@
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe.config
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.pdb
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.AssemblyReference.cache
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.SuggestedBindingRedirects.cache
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.exe
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.pdb
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BouncyCastle.Crypto.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Hash.xxHash.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\MySql.Data.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Buffers.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Memory.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Numerics.Vectors.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Ubiety.Dns.Core.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\ZstdNet.dll
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BouncyCastle.Crypto.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.pdb
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Hash.xxHash.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\MySql.Data.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Buffers.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Memory.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Numerics.Vectors.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\C#\075_dany_IK1-2022\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CopyComplete
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe.config
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.pdb
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BouncyCastle.Crypto.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Hash.xxHash.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\MySql.Data.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Buffers.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Memory.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Numerics.Vectors.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Ubiety.Dns.Core.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\ZstdNet.dll
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BouncyCastle.Crypto.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.pdb
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Hash.xxHash.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\MySql.Data.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Buffers.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Memory.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Numerics.Vectors.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.AssemblyReference.cache
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.SuggestedBindingRedirects.cache
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CopyComplete
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.exe
+D:\TUGAS KULIAH\Referensi\Dani\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.pdb
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe.config
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.pdb
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BouncyCastle.Crypto.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Hash.xxHash.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\MySql.Data.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Buffers.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Memory.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Numerics.Vectors.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Ubiety.Dns.Core.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\ZstdNet.dll
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\BouncyCastle.Crypto.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.pdb
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\Google.Protobuf.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\K4os.Hash.xxHash.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\MySql.Data.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Buffers.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Memory.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Numerics.Vectors.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.AssemblyReference.cache
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.SuggestedBindingRedirects.cache
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CopyComplete
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.exe
+Z:\C#\075_dany_IK1-2022\Edit\Project Final_Dany\Project Final_Dany\Project Final\Aplikasi Ujian\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.pdb
